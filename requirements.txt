@@ -1,0 +1,16 @@
+numpy
+torch
+torchvision
+matplotlib  # for waveform visualization
+opencv-python  # if processing medical images
+scikit-learn  # for metrics and preprocessing
+pandas  # for data handling
+tqdm  # for progress bars
+pillow  # for image processing
+transformers  # if using pretrained text models
+
+# numpy>=1.21.0
+# torch>=1.12.0
+# torchvision>=0.13.0
+# matplotlib>=3.5.0
+# opencv-python>=4.5.0
